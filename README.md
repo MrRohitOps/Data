@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ronit007
 - 👀 I’m interested in DevOps 
-- 🌱 I’m currently i am a System Admin at Web Masters LLC
+- 🌱 I’m currently an System Admin at Web Masters LLC
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

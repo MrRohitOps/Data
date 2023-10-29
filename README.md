@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @Ronit007
-- 👀 I’m interested in DevOps 
-- 🌱 I’m currently an System Admin at Web Masters LLC
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Ronit-hub-007/Ronit-hub-007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=13F7CF&background=55FFB300&random=false&width=435&lines=Hi+there%2C+I'm+Sagar+Shah+;I+hope+you're+doing+well;Enjoy+your+time+%3A))](https://git.io/typing-svg)

@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=13F7CF&background=55FFB300&random=false&width=435&lines=Hi+there+Thanks+for+vising+my+page%2C+I'm+Rohit+More+;I+hope+you're+doing+well;Enjoy+your+time+%3A))](https://git.io/typing-svg)
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=13F7CF&background=55FFB300&random=false&width=435&lines=Hi+there+Thanks+for+vising+my+page%2C+I'm+Rohit+More+;I+hope+you're+doing+well;Enjoy+your+time+%3A))](https://git.io/typing-svg)</h1>
 
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+<h3 align="center">DevOps Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronit-hub-007&label=Profile%20views&color=0e75b6&style=flat" alt="ronit-hub-007" /> </p>
 

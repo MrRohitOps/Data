@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit More</h1>
 <h3 align="center">DevOps Enthusiast from India</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=13F7CF&background=55FFB300&random=false&width=435&lines=Hi+there+Thanks+for+vising+my+page%2C+I'm+Rohit+More+;I+hope+you're+doing+well;Enjoy+your+time+%3A))](https://git.io/typing-svg)
-
+<a align="center"href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=0A9BF7&random=false&width=435&lines=Welcome+to+my+Github..!!;hope+you+are+doing+well!;Thanks+for+vising+my+page" alt="Typing SVG" /></a>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronit-hub-007&label=Profile%20views&color=0e75b6&style=flat" alt="ronit-hub-007" /> </p>

@@ -1,10 +1,7 @@
-![Banner Alt Text](https://github.com/MrRohitOps/Data/blob/c302edf3fa764bec8e2f3cc7b491c8504aac1772/RohitDevops.png)
-
 <h1 align="center">Hi 👋, I'm Rohit More</h1>
 <h3 align="center">DevOps Enthusiast from India</h3>
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=0A9BF7&random=false&width=435&lines=Welcome+to+my+Github..!!;hope+you+are+doing+well!;Thanks+for+vising+my+page" alt="Typing SVG" /></a>
-
+![Banner Alt Text](https://github.com/MrRohitOps/Data/blob/c302edf3fa764bec8e2f3cc7b491c8504aac1772/RohitDevops.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronit-hub-007&label=Profile%20views&color=0e75b6&style=flat" alt="ronit-hub-007" /> </p>
 

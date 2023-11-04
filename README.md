@@ -51,7 +51,7 @@ Feel free to reach out! Let's code the future together! 🌟
 ***Cloud Technologies:***
 
 <img align='right'
-    src="https://github.com/MrRohitOps/MrRohitOps/blob/main/assests/-vector-character-illustration-in-isometry-design-men-with-computer-editor-apisthe-apis-availab-398236910.png"
+    src="https://github.com/MrRohitOps/MrRohitOps/blob/main/assests/animation_lok6n7zb_large.gif"
     width="450">
 
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img

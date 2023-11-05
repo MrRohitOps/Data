@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=0A9BF7&random=false&width=435&lines=Welcome+to+my+Github..!!;hope+you+are+doing+well!;Thanks+for+vising+my+page" alt="Typing SVG" /></a>
 </div>
 
-![Banner Alt Text](https://github.com/MrRohitOps/Data/blob/c302edf3fa764bec8e2f3cc7b491c8504aac1772/RohitDevops.png)
+![Banner Alt Text](https://github.com/MrRohitOps/MrRohitOps/blob/main/assests/RohitDevopsEnthusiast.png)
 
 
 <h1 align="center">Hello 👋, I'm Rohit More</h1>

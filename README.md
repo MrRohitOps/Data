@@ -66,13 +66,16 @@ Feel free to reach out! Let's code the future together! 🌟
     
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img
         src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="60" height="60" /> </a>
+<a href="" target="_blank" rel="noreferrer"> <img
+        src="https://github.com/MrRohitOps/MrRohitOps/blob/main/assests/cicd.gif" alt="CICD" width="60" height="60" /> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif" alt="docker"
         width="60" height="60" /> </a>
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img
         src="https://github.com/MrRohitOps/MrRohitOps/blob/main/assests/k8s.gif" alt="kubernetes" width="60"
         height="60" /> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
+<br><br>
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img
         src="https://github.com/MrRohitOps/MrRohitOps/blob/main/assests/terraform.gif" alt="firebase" width="60"
         height="60" /> </a>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img
@@ -84,10 +87,10 @@ Feel free to reach out! Let's code the future together! 🌟
 <a href="https://golang.org" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="60"
         height="60" /> </a>
+<br><br>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
         alt="python" width="60" height="60" /> </a>
-</p>
 <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img
         src="https://github.com/MrRohitOps/MrRohitOps/blob/main/assests/grafana.gif" alt="grafana" width="60"
         height="60" /> </a>
@@ -100,6 +103,9 @@ Feel free to reach out! Let's code the future together! 🌟
 <br><br>
 ***Hosting, Database & Other Technologies:***
 
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.djangoproject.com/s/img/logos/django-logo-negative.png" alt="Django" width="60" height="60" />
+</a>
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
         alt="dotnet" width="60" height="60" /> </a>
@@ -125,7 +131,7 @@ Feel free to reach out! Let's code the future together! 🌟
 
   <br><br>
   📫 can reach me on :) <B>rohitmore4889@gmail.com</b></p>
-
+ <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MrRohitOps&show_icons=true&locale=en&layout=compact" alt="MrRohitOps" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MrRohitOps&" alt="MrRohitOps" /></p>
 

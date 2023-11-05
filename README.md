@@ -104,7 +104,7 @@ Feel free to reach out! Let's code the future together! 🌟
 ***Hosting, Database & Other Technologies:***
 
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.djangoproject.com/s/img/logos/django-logo-negative.png" alt="Django" width="60" height="60" />
+    <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="Django" width="60" height="60" />
 </a>
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"

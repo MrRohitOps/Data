@@ -98,7 +98,7 @@ Feel free to reach out! Let's code the future together! 🌟
         width="60" height="60" /> </a>
 
 <br><br>
-***hands-on Web-Hosting Technologies:***
+***Hosting, Database & Other Technologies:***
 
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"

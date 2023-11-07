@@ -132,8 +132,8 @@ Feel free to reach out! Let's code the future together! 🌟
   <br><br>
   📫 can reach me on :) <B>rohitmore4889@gmail.com</b></p>
  <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MrRohitOps&show_icons=true&locale=en&layout=compact" alt="MrRohitOps" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MrRohitOps&" alt="MrRohitOps" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RohitDeployer&show_icons=true&locale=en&layout=compact" alt="RohitDeployer" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RohitDeployer&" alt="RohitDeployer" /></p>
 
 
 #### Thanks for visiting :heart:

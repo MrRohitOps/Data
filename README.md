@@ -41,7 +41,7 @@ Feel free to reach out! Let's code the future together! 🌟
     <a href="https://instagram.com/RohitDeployer" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="rohit___more_" height="40" width="40" /></a>&nbsp;&nbsp;
-    <a href="https://www.youtube.com/@themrmore" target="blank"><img align="center"
+    <a href="https://www.youtube.com/@RohitDeployer" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
             alt="themrmore" height="40" width="40" /></a>&nbsp;&nbsp;
 </p>

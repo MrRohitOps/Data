@@ -35,7 +35,7 @@ Feel free to reach out! Let's code the future together! 🌟
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/rohit-more-87a405295" target="blank"><img align="center"
+    <a href="https://www.linkedin.com/in/rohitdeployer/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="rohit-more-87a405295" height="40" width="40" /></a>&nbsp;&nbsp;
     <a href="https://instagram.com/RohitDeployer" target="blank"><img align="center"

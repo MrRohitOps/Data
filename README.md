@@ -14,38 +14,6 @@
 🚀 **What I Do:**
 I specialize in building scalable and reliable infrastructure, crafting seamless CI/CD pipelines, and fostering collaboration between development and operations teams. My expertise lies in optimizing deployment processes and ensuring the smooth functioning of applications in any environment.
 
-🛠️ **Technologies & Tools:**
-- **CI/CD:** Building robust Continuous Integration/Continuous Deployment pipelines.
-- **Configuration Management:** Proficient in Ansible & Terraform for efficient configuration orchestration.
-- **Containerization:** Experience with Docker and Kubernetes for scalable container management.
-- **Cloud Platforms:** Proficient in AWS, Azure, and GCP for creating flexible cloud architectures.
-- **Monitoring & Logging:** Skilled in ELK Stack, Prometheus, and Grafana for comprehensive system monitoring.
-- **Version Control:** Expertise in Git, GitHub, GitLab, and Bitbucket for collaborative version control.
-- **Scripting:** Fluent in Bash, Python, and PowerShell for automation and scripting tasks.
-
-🌱 **Always Evolving:**
-I'm constantly exploring new tools and best practices in the ever-evolving DevOps landscape. My goal is to automate the mundane, enabling teams to focus on innovating the extraordinary!
-
-🤝 **Let's Connect:**
-I'm open to discussions on DevOps, automation, or any tech-related ideas. I thrive on collaboration and am always looking for new opportunities to contribute. Together, let's build a more efficient and reliable tech world!
-
-**#DevOps #Automation #ContinuousDelivery #InfrastructureAsCode #CollaborationOverConflict**
-
-Feel free to reach out! Let's code the future together! 🌟
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://www.linkedin.com/in/rohitdeployer/" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="rohit-more-87a405295" height="40" width="40" /></a>&nbsp;&nbsp;
-    <a href="https://instagram.com/RohitDeployer" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="rohit___more_" height="40" width="40" /></a>&nbsp;&nbsp;
-    <a href="https://www.youtube.com/@RohitDeployer" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-            alt="themrmore" height="40" width="40" /></a>&nbsp;&nbsp;
-</p>
-
 <h2 align="left">Technologies:</h2>
 
 ***Cloud Technologies:***
@@ -130,6 +98,40 @@ Feel free to reach out! Let's code the future together! 🌟
 <p align="left">
 
   <br><br>
+
+🛠️ **Technologies & Tools:**
+- **CI/CD:** Building robust Continuous Integration/Continuous Deployment pipelines.
+- **Configuration Management:** Proficient in Ansible & Terraform for efficient configuration orchestration.
+- **Containerization:** Experience with Docker and Kubernetes for scalable container management.
+- **Cloud Platforms:** Proficient in AWS, Azure, and GCP for creating flexible cloud architectures.
+- **Monitoring & Logging:** Skilled in ELK Stack, Prometheus, and Grafana for comprehensive system monitoring.
+- **Version Control:** Expertise in Git, GitHub, GitLab, and Bitbucket for collaborative version control.
+- **Scripting:** Fluent in Bash, Python, and PowerShell for automation and scripting tasks.
+
+🌱 **Always Evolving:**
+I'm constantly exploring new tools and best practices in the ever-evolving DevOps landscape. My goal is to automate the mundane, enabling teams to focus on innovating the extraordinary!
+
+🤝 **Let's Connect:**
+I'm open to discussions on DevOps, automation, or any tech-related ideas. I thrive on collaboration and am always looking for new opportunities to contribute. Together, let's build a more efficient and reliable tech world!
+
+**#DevOps #Automation #ContinuousDelivery #InfrastructureAsCode #CollaborationOverConflict**
+
+Feel free to reach out! Let's code the future together! 🌟
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+    <a href="https://www.linkedin.com/in/rohitdeployer/" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            alt="rohit-more-87a405295" height="40" width="40" /></a>&nbsp;&nbsp;
+    <a href="https://instagram.com/RohitDeployer" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+            alt="rohit___more_" height="40" width="40" /></a>&nbsp;&nbsp;
+    <a href="https://www.youtube.com/@RohitDeployer" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
+            alt="themrmore" height="40" width="40" /></a>&nbsp;&nbsp;
+</p>
+
+
   📫 can reach me on :) <B>rohitmore4889@gmail.com</b></p>
  <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RohitDeployer&show_icons=true&locale=en&layout=compact" alt="RohitDeployer" /></p>
